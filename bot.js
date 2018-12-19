@@ -189,7 +189,7 @@ message.channel.send('**تم الارسال في الخاص**');
 
 
 
-client.login('NTI0ODg5NjYyNDQ4MjA1ODI3.DvwMNQ.kQQPwUvudSKGpWZH7iOXS5rSSHA'); 
+client.login('NTI0ODg5NjYyNDQ4MjA1ODI3.Dvwmog.ON-Dz_oZeaGfzYNfus1eOXXpDfQ'); 
 
 
 
