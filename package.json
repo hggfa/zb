@@ -1,4 +1,5 @@
-"name": "Emoko",
+{
+  "name": "Emoko",
   "description": "Emoko",
   "version": "0.0.0",
   "main": "bot.js",
